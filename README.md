@@ -11,11 +11,11 @@ Begin your journey with ATOMS by downloading the APK from the repository and ins
 Explore the features of ATOMS with these demo credentials:
 
 - **Student Sign-in**
-  - **Email**: student@atoms.edu
-  - **Password**: student2023
+  - **Email**: "update soon:
+  - **Password**:
 - **Parent Sign-in**
-  - **Email**: parent@atoms.edu
-  - **Password**: parent2023
+  - **Email**: "update soon:
+  - **Password**:
 
 ## :key: Key Features
 
