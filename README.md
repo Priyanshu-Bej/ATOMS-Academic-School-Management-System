@@ -55,3 +55,5 @@ I designed ATOMS to foster a connected and informative educational environment, 
 ## :heart: Feedback and Contributions
 
 Your feedback is invaluable—I encourage you to contribute ideas, report issues, or suggest enhancements through the app’s support feature. Dive into a more organized and effective educational experience with ATOMS!
+![atoms](https://github.com/user-attachments/assets/05fa940f-9023-4061-b3cc-ecdb519ab55c)
+
